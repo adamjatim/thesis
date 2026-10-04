@@ -1,0 +1,5 @@
+# Temporary Office / Windows files
+~$*
+*.tmp
+thumbs.db
+Desktop.ini
