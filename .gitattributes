@@ -1,0 +1,2 @@
+Book/Previous[[:space:]]Version/** filter=lfs diff=lfs merge=lfs -text
+Book/Software[[:space:]]Engineering-A[[:space:]]Practitioner's[[:space:]]Approach[[:space:]]9th.pdf filter=lfs diff=lfs merge=lfs -text
