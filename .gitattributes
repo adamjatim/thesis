@@ -1,2 +1,6 @@
 Book/Previous[[:space:]]Version/** filter=lfs diff=lfs merge=lfs -text
 Book/Software[[:space:]]Engineering-A[[:space:]]Practitioner's[[:space:]]Approach[[:space:]]9th.pdf filter=lfs diff=lfs merge=lfs -text
+ref/handbook-of-human-computer-interaction-second-edition_compress.pdf filter=lfs diff=lfs merge=lfs -text
+Book/Software[[:space:]]Engineering-A[[:space:]]Practitioner's[[:space:]]Approach[[:space:]]9th[[:space:]]Roger[[:space:]]S[[:space:]]Pressman.pdf filter=lfs diff=lfs merge=lfs -text
+Book/Previous[[:space:]]Version/Software[[:space:]]Engineering-A[[:space:]]Practitioner's[[:space:]]Approach[[:space:]]7th.pdf filter=lfs diff=lfs merge=lfs -text
+Book/Previous[[:space:]]Version/软件工程-实践者的研究方法.8th.pdf filter=lfs diff=lfs merge=lfs -text
